@@ -7,13 +7,13 @@ table{
 	border-spacing:10px;
 }
 
-.border-right{
+/* .border-right{
 	border-right : none;
 }
 
 .border-left{
 	border-left : none;
-}
+} */
 
 .border-collapse{
 	border-collapse : collapse;
