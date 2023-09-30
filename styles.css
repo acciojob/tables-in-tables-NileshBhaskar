@@ -1,2 +1,34 @@
 
 /* Your CSS Code here. */
+
+table{
+	width: 100%; 
+	height: 100%
+	border-spacing:10px;
+}
+
+.border-right{
+	border-right : none;
+}
+
+.border-left{
+	border-left : none;
+}
+
+.border-collapse{
+	border-collapse : collapse;
+}
+
+.text-align{
+	text-align : center;
+	color: white;
+	background-color: black;
+}
+
+table{
+	text-align: center;
+}
+
+.padding{
+	padding: 15px;
+}
